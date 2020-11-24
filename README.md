@@ -1,0 +1,2 @@
+# workshop
+GraalVM workshop instructions
