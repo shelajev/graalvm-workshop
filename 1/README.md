@@ -1,6 +1,6 @@
 # Building a simple GraalVM native image
 
-*Estimated time: 10 minutes.*
+*Estimated time: 15 minutes.*
 
 GraalVM native image can process your application compiling it ahead of time into a standalone executable.
 
