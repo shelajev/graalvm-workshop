@@ -13,6 +13,6 @@ the workshop is separated into several parts which you can find in this reposito
 8. [Profile guided optimizations for GraalVM native image](https://github.com/shelajev/workshop/tree/main/8)
 9. [For best peak performance use GraalVM with the JIT](https://github.com/shelajev/workshop/tree/main/9)
 95. [Exploring the GraalVM JIT](https://github.com/shelajev/workshop/tree/main/95)
-97. [Exploring the polyglot runtime of GraalVM](https://github.com/shelajev/workshop/tree/main/97) 
+
 
 
