@@ -177,5 +177,6 @@ Thread[Thread-0,5,main]
 ~/init-strategy
 ```
 
+Correspondingly, you can use the `--initialize-at-run-time=package.C1` option to make classes init at runtime. 
 
 Next, we'll try to explore various deployment options for native images.

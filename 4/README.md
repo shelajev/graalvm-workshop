@@ -1,6 +1,6 @@
-# Smaller executables for GraalVM native image
+# Smaller deployment options for GraalVM native image
 
-*Estimated time: 7 minutes.*
+*Estimated time: 15 minutes.*
 
 Let's build a small microservice application responding to HTTP queries with the same business logic of generating prime numbers:
 
