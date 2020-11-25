@@ -88,7 +88,7 @@ We can compress the application with, for example, the upx utility: https://upx.
 
 Run the upx with various options to check the speed/compression ratio, for example:
 ```
-upx -8 build/native-image/application
+upx -k -8 build/native-image/application
                        Ultimate Packer for eXecutables
                           Copyright (C) 1996 - 2020
 UPX 3.96        Markus Oberhumer, Laszlo Molnar & John Reiser   Jan 23rd 2020

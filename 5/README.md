@@ -1,6 +1,6 @@
-# Smaller executables for GraalVM native image
+# Deployment options for GraalVM native images
 
-*Estimated time: 7 minutes.*
+*Estimated time: 15 minutes.*
 
 In the previous part we've build a small microservice that can respond to the HTTP traffic.
 Let's continue using it and try to explore some options how we can deploy it differently.
