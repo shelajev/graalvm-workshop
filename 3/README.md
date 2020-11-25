@@ -178,4 +178,4 @@ Thread[Thread-0,5,main]
 ```
 
 
-Next, we'll try to explore some more options how to configure the class initialization strategy for native images.
+Next, we'll try to explore various deployment options for native images.
