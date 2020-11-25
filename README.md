@@ -1,6 +1,9 @@
 # workshop
 GraalVM workshop instructions
 
+The instructions to install GraalVM can be found, for example, [here](https://docs.oracle.com/en/graalvm/enterprise/20/docs/getting-started/installation-linux/).
+The prerequsites for the native image component working are described in the [docs](https://docs.oracle.com/en/graalvm/enterprise/20/docs/reference-manual/enterprise-native-image/) as well.
+
 the workshop is separated into several parts which you can find in this repository: 
 
 1. [Building a simple GraalVM native image](https://github.com/shelajev/workshop/tree/main/1)
@@ -13,6 +16,5 @@ the workshop is separated into several parts which you can find in this reposito
 8. [Profile guided optimizations for GraalVM native image](https://github.com/shelajev/workshop/tree/main/8)
 9. [For best peak performance use GraalVM with the JIT](https://github.com/shelajev/workshop/tree/main/9)
 95. [Exploring the GraalVM JIT](https://github.com/shelajev/workshop/tree/main/95)
-
 
 
