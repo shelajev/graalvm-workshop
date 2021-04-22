@@ -7,7 +7,8 @@ The prerequsites for the native image component working are described in the [do
 the workshop is separated into several parts which you can find in this repository:
 
 1. [Building a simple GraalVM native image](https://github.com/shelajev/workshop/tree/main/1)
-2. [Assisted configuration for GraalVM native image](https://github.com/shelajev/workshop/tree/main/2)
+2. [Assisted configuration for GraalVM native image](https://github.com/shelajev/workshop/tree/main/2) 
+2.5. [Configuring JDK proxies for GraalVM native image](https://github.com/shelajev/workshop/tree/main/2.5)
 3. [Class initialization strategy for GraalVM native image](https://github.com/shelajev/workshop/tree/main/3)
 4. [Smaller deployment options for GraalVM native image](https://github.com/shelajev/workshop/tree/main/4)
 5. [Deployment options for GraalVM native images](https://github.com/shelajev/workshop/tree/main/5)
